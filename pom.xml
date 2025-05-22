@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.aamlid</groupId>
-	<artifactId>venture</artifactId>
+	<artifactId>venture-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>venture</name>
+	<name>venture-backend</name>
 	<description>A satirical shareholder simulation app where users can buy fictional shares, view leaderboards, and track fake transactions. All for fun and with zero financial value.</description>
 	<url/>
 	<licenses>
